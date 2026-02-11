@@ -1,4 +1,4 @@
-🏢 SmartConectaFrontEnd
+ SmartConectaFrontEnd
 
 O SmartConecta é um projeto acadêmico desenvolvido durante a faculdade como um trabalho extensivo, semelhante a um TCC, com o objetivo de criar uma plataforma web para gestão de condomínios.
 
